@@ -1,9 +1,21 @@
 # Torres
-En este repositorio guardaremos los ejercicios de la clase de mate financieras 2024 
+En este repositorio, se agrupan las funciones y actividades informáticas realizadas en la materia de Matemáticas Financieras de la licenciatura de Actuaría y Ciencia de datos
 
-**texto en negrita**
+##Funciones de Interés simple
 
-```
-# Este es un ejemplo de codigo:
-a=5 
-```
+Con el siguiente código, puede usted cargar las funciones relativas a los cálculos de interés simple
+
+A continuación se dan ejemplos del uso de las fórmulas
+
+Calculo del valor futuro
+V
+A
+=$1000.00$ 
+i
+=24.00% anualizado 
+r
+=2.00% mensual 
+t
+=7 meses
+
+Se realizan los calculos
