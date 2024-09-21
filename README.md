@@ -17,7 +17,7 @@ i
 =24.00% anualizado 
 r
 =2.00% mensual 
-t
-=7 meses
+
+t=7 meses
 
 Se realizan los calculos
