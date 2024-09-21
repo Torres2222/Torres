@@ -5,6 +5,8 @@ En este repositorio, se agrupan las funciones y actividades informáticas realiz
 
 Con el siguiente código, puede usted cargar las funciones relativas a los cálculos de interés simple
 
+https://github.com/Torres2222/Torres/blob/main/FormulasInteresSimple.Rhistory
+
 A continuación se dan ejemplos del uso de las fórmulas
 
 Calculo del valor futuro
